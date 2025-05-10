@@ -31,8 +31,8 @@ git clone https://github.com/yourusername/inventory-management-system.git
 ```php
 $host = 'localhost:3307';
 $dbname = 'inventory_db';
-$username = 'your_username';
-$password = 'your_password';
+$username = 'invent';
+$password = 'root';
 ```
 
 4. The tables will be created automatically on first run
