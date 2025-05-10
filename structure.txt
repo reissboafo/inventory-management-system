@@ -1,0 +1,15 @@
+/inventory-system/
+│── index.php                # Dashboard
+│── products.php             # Product management
+│── sales.php                # Sales tracking
+│── suppliers.php            # Supplier management
+│── alerts.php               # Stock alerts
+│── includes/
+│   │── config.php           # Database connection
+│   │── header.php           # Common header
+│   │── footer.php           # Common footer
+│── assets/
+│   │── css/
+│   │   │── style.css        # Custom styles
+│   │── js/
+│   │   │── script.js        # Custom JavaScript
