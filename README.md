@@ -1,6 +1,8 @@
 # Inventory Management System
 
 A simple web-based inventory management system built with PHP and MySQL that helps track products, sales, and suppliers.
+<img width="945" height="462" alt="image" src="https://github.com/user-attachments/assets/5be900b6-1349-4fc0-acaa-9d0d98216954" />
+
 
 ## Features
 
@@ -88,5 +90,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Reiss Niih Boafo
 
 ## Support
+
 
 For support, please open an issue in the GitHub repository.
